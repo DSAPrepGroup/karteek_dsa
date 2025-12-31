@@ -78,5 +78,5 @@ class Solution {
         list.add(input.val);
         inorder_helper_function(input.right, list);
 
-    }
+    } 
 }
